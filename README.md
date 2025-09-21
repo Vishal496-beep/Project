@@ -13,8 +13,3 @@ This project highlights modern UI design, responsive layouts, and interactive na
 - CSS3
 - JavaScript
 
-## 📸 Preview
-![Screenshot]() 
-
-## 🔗 Live Demo
-https://opulent-fishstick-jjgv9xjv4g59cqvp-3004.app.github.dev/
