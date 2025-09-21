@@ -14,7 +14,7 @@ This project highlights modern UI design, responsive layouts, and interactive na
 - JavaScript
 
 ## 📸 Preview
-![Screenshot](screenshot.png)  <!-- upload a screenshot if possible -->
+![Screenshot]() 
 
 ## 🔗 Live Demo
-[Click here to view](https://Vishal496-beep.github.io/resume-website-clone/)  
+https://opulent-fishstick-jjgv9xjv4g59cqvp-3004.app.github.dev/
